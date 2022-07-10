@@ -1,13 +1,30 @@
-### Hi there 👋
+### Glad to see you here 
 
-I am a CS Ph.D student.  
-My research interests include outlier/anomaly detection and interpretation for tabular, time series, and graph data. 
+
+<table><tr><td valign="top" width="50%">
+
+- 🌱 I’m a CS Ph.D student. 
   
-Contact me by **hongzuo.xu [aT] gmail [dot] com** or **leogarcia [aT] 126 [dot] com**
+- 🔭 My current research interests include outlier/anomaly detection and interpretation for tabular, time series, and graph data. 
+  
+- Contact me by **hongzuo.xu [aT] gmail [dot] com** or **leogarcia [aT] 126 [dot] com**
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=xuhongzuo&show_icons=true&theme=dark&count_private=true)
+  
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+</td></tr></table>  
+
+<br/>  
+ 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=xuhongzuo&show_icons=true&theme=vue&count_private=true)
 
 ![Visitor Count](https://profile-counter.glitch.me/xuhongzuo/count.svg)
+
+
 
 
 <!--
