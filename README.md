@@ -1,10 +1,10 @@
 ### Glad to see you here !
 
-- 🌱 I’m a CS Ph.D student. 
+- 🌱 I’m a CS Ph.D student at National University of Defense Technology, China. 
   
-- 🔭 My current research interests include outlier/anomaly detection and interpretation for tabular, time series, and graph data. 
-  
-- Contact me by **hongzuo.xu [aT] gmail [dot] com** or **leogarcia [aT] 126 [dot] com**
+- 🔭 My current research interests include unsupervised/weakly-sueprvised outlier/anomaly detection and interpretation for tabular, time series, and graph data. 
+
+- 📫 Contact me via **hongzuo.xu [aT] gmail [dot] com** or **leogarcia [aT] 126 [dot] com**
 
  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xuhongzuo&show_icons=true&theme=vue&count_private=true)
