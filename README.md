@@ -1,8 +1,5 @@
 ### Glad to see you here !
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="200" />
-<br>
-
 - 🌱 I’m a CS Ph.D student. 
   
 - 🔭 My current research interests include outlier/anomaly detection and interpretation for tabular, time series, and graph data. 
