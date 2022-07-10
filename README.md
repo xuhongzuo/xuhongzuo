@@ -1,7 +1,7 @@
-### Glad to see you here 
+### Glad to see you here !
 
-
-<table><tr><td valign="top" width="50%">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="200" />
+<br>
 
 - 🌱 I’m a CS Ph.D student. 
   
@@ -9,16 +9,6 @@
   
 - Contact me by **hongzuo.xu [aT] gmail [dot] com** or **leogarcia [aT] 126 [dot] com**
 
-  
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-</td></tr></table>  
-
-<br/>  
  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xuhongzuo&show_icons=true&theme=vue&count_private=true)
 
