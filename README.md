@@ -2,7 +2,7 @@
 
 - 🌱 I’m a CS Ph.D. student at National University of Defense Technology, China. 
   
-- 🔭 My current research interests include unsupervised/weakly-supervised outlier/anomaly detection and interpretation for tabular, time series, and graph data. 
+- 🔭 My current research interests include unsupervised/weakly-supervised outlier/anomaly detection/interpretation for tabular, time series, and graph data. 
 
 - 📫 Contact me via **hongzuo.xu [aT] gmail [dot] com** or **leogarcia [aT] 126 [dot] com**
 
