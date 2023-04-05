@@ -4,7 +4,7 @@
   
 - 🔭 My current research interests include unsupervised/weakly-supervised outlier/anomaly detection/interpretation for tabular, time series, and graph data. 
 
-- 📫 Contact me via **hongzuo.xu [aT] gmail [dot] com** or **leogarcia [aT] 126 [dot] com**
+- 📫 Contact me via **hongzuoxu [aT] 126 [dot] com**
 
  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xuhongzuo&show_icons=true&theme=vue&count_private=true)
