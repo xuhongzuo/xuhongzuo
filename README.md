@@ -10,6 +10,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xuhongzuo&show_icons=true&theme=vue&count_private=true)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=xuhongzuo&title=Stars,Followers,Commit)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
